@@ -25,6 +25,6 @@
 | [Chair](STLs/chair.stl)                 | ![Chair](assets/chair.png)                  |
 | [4D Hypercube](STLs/hyper_cube.stl)     | ![4D Hypercube](assets/hyper_cube.png)      |
 | [Gear](STLs/gear.stl)                   | ![Gear](assets/gear.png)                    |
-| [Drill stand](STLs/drill_bit_holder.stl)| ![Drill stand](assets/drill_bit_holder.png) |
+| [Drill stand](STLs/drill_stand.stl)| ![Drill stand](assets/drill_bit_holder.png) |
 | [Dice](STLs/dice.stl)                   | ![Dice](assets/dice.png)                    |
 | [Clip](STLs/clip.stl)                   | ![Clip](assets/clip.png)                    |
