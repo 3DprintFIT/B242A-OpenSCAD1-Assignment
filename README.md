@@ -3,7 +3,7 @@
 Před odevzdáním úlohy přes GitHub je třeba [projevit souhlas se zpracováním  osobních údajů](https://courses.fit.cvut.cz/BI-3DT/gdpr.html).
 
 ## Hodnocení
-* Vaším úkolem je přihlásit se k úkolu pomocí tohoto linku: https://classroom.github.com/a/GMMGT_K1
+* Vaším úkolem je přihlásit se k úkolu pomocí tohoto linku: https://classroom.github.com/a/JYcuFlm0
   * Kompletní řešení 1 úlohy (1 bod)
   * Úloha nesplňuje zadání (0 bodů)
   * Maximální bodový zisk je 3 body, čili když uděláte více jak 3 úlohy spravně, děláte to pouze pro váš dobrý pocit.
